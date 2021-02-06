@@ -20,6 +20,9 @@ A simple Fitness app that helps you keep track of your workouts and allows you t
 - See deployed app at:
 
 ## Visuals
+![Screenshot (81)](https://user-images.githubusercontent.com/66501008/107106257-80ba6800-67df-11eb-9982-d0611b2ce4e6.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/66501008/107106259-82842b80-67df-11eb-9b41-383d893b3e1d.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/66501008/107106260-84e68580-67df-11eb-808d-b5b23bacef6c.png)
 
 ## Installation
 
