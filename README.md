@@ -17,7 +17,7 @@
 A simple Fitness app that helps you keep track of your workouts and allows you to see your progress.
 
 - See the project repository: https://github.com/ASwartz14/BudgetTracker on GitHub.
-- See deployed app at:
+- See deployed app at: https://peaceful-brook-14490.herokuapp.com
 
 ## Visuals
 ![Screenshot (81)](https://user-images.githubusercontent.com/66501008/107106257-80ba6800-67df-11eb-9982-d0611b2ce4e6.png)
